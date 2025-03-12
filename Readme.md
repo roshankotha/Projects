@@ -12,7 +12,7 @@ pip install yfinance pandas matplotlib statsmodels numpy
 ---
 
 ### **📌 Step 5: How to Use the Project**  
-Explain how users can run the script.  
+  
 
 ```markdown
 ## Usage  
@@ -25,7 +25,7 @@ Explain how users can run the script.
 ---
 
 ## 📌 Step 6: Features of Your Project  
-Highlight what your project does.  
+  
 
 ```markdown
 ## Features  
