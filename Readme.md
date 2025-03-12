@@ -39,8 +39,8 @@ pip install yfinance pandas matplotlib statsmodels numpy
 ## Example Output  
 Here’s a sample stock price trend:  
 
+![AAPL Stock Price Over Time](https://raw.githubusercontent.com/roshankotha/Projects/master/Images/AAPL_stock_price_over_time.png)
 
-![Stock Chart](https://raw.githubusercontent.com/roshankotha/Projects/master/Images/step%203.png)
 
 
 
