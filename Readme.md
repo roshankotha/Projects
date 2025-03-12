@@ -39,7 +39,8 @@ pip install yfinance pandas matplotlib statsmodels numpy
 ## Example Output  
 Here’s a sample stock price trend:  
 
-![Stock Chart](Images/AAPL stock price amd moving avg.png)
+![Stock Chart](https://github.com/roshankotha/Projects/blob/master/Images/step%203.png)
+
 
 
   
