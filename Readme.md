@@ -39,7 +39,7 @@ pip install yfinance pandas matplotlib statsmodels numpy
 ## Example Output  
 Here’s a sample stock price trend:  
 
-![Stock Chart](https://github.com/roshankotha/Projects/blob/master/Images/step%203.png)
+![Stock Chart](https://raw.githubusercontent.com/roshankotha/Projects/master/Images/step%203.png)
 
 
 
